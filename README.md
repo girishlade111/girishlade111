@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @girishlade111
+- 👀 I’m interested in UX/UI designing.
+- 🌱 I’m currently learning Kotlin / Swift.
+- 💞️ I’m looking to collaborate on for making AI agent.
+- 📫 How to reach me: E-Mail, LinkedIn, Instagram and Twitter / X.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Nothing😅
+
+<!---
+girishlade111/girishlade111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
