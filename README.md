@@ -1,96 +1,118 @@
-<!-- ============================================ -->
-<!--  Girish Balaso Lade — Professional Profile    -->
-<!--  Place this README in the root of your repo  -->
-<!-- ============================================ -->
+<!-- Profile Header -->
+<div align="center">
+  <img src="./src/image1.png" width="180" style="border-radius: 50%; border: 2px solid #00bcd4;" alt="Girish Lade Profile Picture"/>
+  
+  <h1>👋 Hey, I’m <strong>Girish Balaso Lade</strong></h1>
+  <h3>UX/UI Engineer • AI Tool Builder • Creative Technologist</h3>
+  
+  <p>
+    <a href="https://ladestack.in/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="mailto:girish@ladestack.in"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/girish-lade-075bba201/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/girish_lade_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://github.com/girishlade111" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
+</div>
+
+---
+
+## 🧠 About Me
+
+I’m **Girish**, a UX/UI developer who designs, codes, and engineers tools that empower other creators.  
+I believe that **good design is invisible** — and great tools feel effortless.
+
+I’m building at the intersection of **AI**, **automation**, and **aesthetic systems** — blending design and code to create scalable, human-friendly experiences.
+
+> “I don’t just write code — I compose it.”
+
+---
+
+## ⚙️ What I Do
+
+| Area | What I’m Building / Exploring |
+|------|-------------------------------|
+| **🎨 UX/UI Design** | Minimal, aesthetic, and functional interfaces with Figma + Tailwind |
+| **💻 Full-Stack Dev** | Next.js / Supabase / Firebase / TypeScript / Genkit |
+| **🤖 AI Integration** | Experimenting with LLM orchestration, caching, and AI agents |
+| **🚀 Startup Mindset** | Building open-source SaaS tools that developers actually use |
+| **🧩 System Thinking** | From design systems to backend architectures — building end-to-end |
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="./image1.png" alt="Girish Balaso Lade" width="160" style="border-radius:50%; box-shadow: 0 6px 18px rgba(2,6,23,0.6)"/>
-</p>
-
-<h1 align="center">Girish Balaso Lade</h1>
-<p align="center"><em>Creative Technologist • UX/UI Engineer • AI Tool Builder</em></p>
-
----
-
-<p align="center">
-  <a href="https://github.com/girishlade111"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-girishlade111-181717?style=flat-square&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/girish-lade-075bba201/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Girish%20Lade-0A66C2?style=flat-square&logo=linkedin"/></a>
-  <a href="https://www.instagram.com/girish_lade_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@girish_lade_-E4405F?style=flat-square&logo=instagram"/></a>
-  <a href="https://codepen.io/Girish-Lade-the-looper"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-Girish%20Lade-111827?style=flat-square&logo=codepen"/></a>
-  <a href="mailto:girish@ladestack.in"><img alt="Email" src="https://img.shields.io/badge/Email-girish@ladestack.in-D14836?style=flat-square&logo=gmail"/></a>
-</p>
-
----
-
-## Quick summary
-
-I combine **product design** and **full-stack engineering** to build AI-integrated tools and polished UX. I think in systems and ship focused, user-centered products: fast prototypes → iteration → scaling.
-
-**Areas of focus**
-- UX/UI design systems & motion
-- Full-stack (Next.js / TypeScript)
-- AI tools and agent orchestration
-- Developer tooling and open-source projects
-
----
-
-## Selected projects
-
-- **AetherCanvas** — Ideogram-style AI image studio for creators. (TypeScript, Next.js)  
-- **Synergy Flow** — Workflow and realtime collaboration dashboard for design teams.  
-- **GB-Coder (Public Beta)** — AI-assisted code editor and dev UX experiments.  
-- **Lade Studio** — Design + dev playground for rapid iteration.
-
-(See pinned repos on my profile for links & demos.)
-
----
-
-## Tech & tools
-
-**Frontend:** TypeScript • React • Next.js • Tailwind  
-**Backend:** Node.js • Supabase • Firebase • Prisma • Vercel  
-**AI & infra:** OpenAI API • LangChain • GitHub Actions • Cloudflare  
-**Design:** Figma • Framer • Adobe XD • Shadcn/UI
-
----
-
-## GitHub insights
-
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=girishlade111&show_icons=true&theme=tokyonight&count_private=true" width="420"/>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishlade111&layout=compact&theme=tokyonight" width="320"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,react,tailwind,figma,flutter,kotlin,swift,firebase,supabase,vercel,github,postman" />
 </p>
 
 ---
 
-## Connect
+## 🧩 Featured Projects
+
+| Project | Description | Stack |
+|----------|--------------|-------|
+| 🧠 [**AetherCanvas**](https://github.com/girishlade111/AetherCanvas-AI-Image-Generation-Studio-Ideogram-Style-) | AI Image Generation Studio (Ideogram Style) | TypeScript, Next.js |
+| ⚡ [**Synergy Flow**](https://github.com/girishlade111/Synergy-Flow) | A productivity + automation system for creative developers | TypeScript |
+| 💬 [**GB Coder (Public Beta)**](https://github.com/girishlade111/GB-Coder-Public-Beta) | AI coding assistant experiments | TypeScript |
+| 🧠 [**Lade Stack Dev Hub**](https://github.com/girishlade111/lade-stack-ai-dev-hub) | Central hub for Lade Stack ecosystem | TypeScript |
+| 🎨 [**Lade Studio**](https://github.com/girishlade111/Lade-Studio) | Modern design studio for UI/UX prototyping | TypeScript |
+
+---
+
+## 💡 Core Philosophy
+
+> “Code is the language of systems.  
+> Design is the language of emotion.  
+> I speak both.”
+
+- I build tools that feel **alive** — where UX and logic merge.
+- I care deeply about **design ethics**, **open access**, and **developer creativity**.
+- I believe in **building fast, learning faster**, and **sharing everything**.
+
+---
+
+## 🔮 Vision
+
+I’m crafting **Lade Stack** — a unified ecosystem of free, AI-integrated tools built for creators, coders, and makers.  
+From **open UI systems** to **AI-assisted coding**, the goal is simple:  
+> make creation effortless, accessible, and beautiful.
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Website: [https://ladestack.in](https://ladestack.in)  
+- 💌 Email: [girish@ladestack.in](mailto:girish@ladestack.in)  
+- 💼 LinkedIn: [Girish Lade](https://www.linkedin.com/in/girish-lade-075bba201/)  
+- 📷 Instagram: [@girish_lade_](https://www.instagram.com/girish_lade_/)  
+- 🧠 GitHub: [girishlade111](https://github.com/girishlade111)  
+- 💻 CodePen: [Girish Lade](https://codepen.io/Girish-Lade-the-looper)
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/girishlade111"><img src="./icons/github.svg" width="48" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/girish-lade-075bba201/"><img src="./icons/linkedin.svg" width="48" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/girish_lade_/"><img src="./icons/instagram.svg" width="48" alt="Instagram"/></a>
-  <a href="https://codepen.io/Girish-Lade-the-looper"><img src="./icons/codepen.svg" width="48" alt="CodePen"/></a>
-  <a href="mailto:girish@ladestack.in"><img src="./icons/mail.svg" width="48" alt="Email"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=girishlade111&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girishlade111&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
-**Email:** girish@ladestack.in • **Website:** http://ladestack.in
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=girishlade111&theme=react-dark&hide_border=true" width="98%"/>
+</p>
 
 ---
 
-## How to keep this README working (short)
+## 🖼️ Gallery
 
-1. Add `image1.png` to the *repo root* (exact filename: `image1.png`).  
-2. Create a folder `icons/` in the repo root and add the SVG files listed below (exact filenames):  
-   - `./icons/github.svg`  
-   - `./icons/linkedin.svg`  
-   - `./icons/instagram.svg`  
-   - `./icons/codepen.svg`  
-   - `./icons/mail.svg`  
-3. Commit & push. GitHub will render the images and badges reliably.
+<div align="center">
+  <img src="./src/image1.png" width="200" style="border-radius: 20px; margin: 5px;" />
+  <img src="./src/image2.png" width="200" style="border-radius: 20px; margin: 5px;" />
+  <img src="./src/image3.png" width="200" style="border-radius: 20px; margin: 5px;" />
+</div>
 
 ---
 
-### Design note
-This README uses simple markdown and small SVG icons to ensure consistent rendering across light/dark themes and avoid layout breakage. If you want a banner, animated header, or a different layout (two-column, left-profile card, etc.), I can provide a tested variant.
-
----
+<div align="center">
+  <h3>✨ “Building the future, one pixel and one line of code at a time.” ✨</h3>
+</div>
