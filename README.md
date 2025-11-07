@@ -1,82 +1,96 @@
+<!-- ============================================ -->
+<!--  Girish Balaso Lade — Professional Profile    -->
+<!--  Place this README in the root of your repo  -->
+<!-- ============================================ -->
+
+<p align="center">
+  <img src="./image1.png" alt="Girish Balaso Lade" width="160" style="border-radius:50%; box-shadow: 0 6px 18px rgba(2,6,23,0.6)"/>
+</p>
+
+<h1 align="center">Girish Balaso Lade</h1>
+<p align="center"><em>Creative Technologist • UX/UI Engineer • AI Tool Builder</em></p>
 
 ---
 
-### 🚀 Featured Projects (hand-picked)
-
-- **AetherCanvas** — Ideogram-style AI image studio for creators. (TypeScript / Next.js)  
-- **Synergy Flow** — Realtime workflow dashboard for design teams. (React / TypeScript)  
-- **GB-Coder (Public Beta)** — AI-assisted code editor & dev UX experiments.  
-- **Lade Studio** — Design + development playground built for iteration.
-
-(For details: see my pinned repos on my profile.)
-
----
-
-### 📈 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=girishlade111&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="github stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girishlade111&theme=tokyonight" height="150" alt="streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishlade111&layout=compact&theme=tokyonight" alt="top langs" />
-</div>
-
----
-
-### 🌐 Connect & Collaborate
-
-<div align="center">
-  <!-- Use local SVG icons for a consistent webapp look -->
-  <a href="https://github.com/girishlade111" style="text-decoration:none; margin:6px;">
-    <img src="./icons/github-card.svg" width="44" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/girish-lade-075bba201/" style="text-decoration:none; margin:6px;">
-    <img src="./icons/linkedin-card.svg" width="44" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/girish_lade_/" style="text-decoration:none; margin:6px;">
-    <img src="./icons/instagram-card.svg" width="44" alt="Instagram"/>
-  </a>
-  <a href="https://codepen.io/Girish-Lade-the-looper" style="text-decoration:none; margin:6px;">
-    <img src="./icons/codepen-card.svg" width="44" alt="CodePen"/>
-  </a>
-  <a href="mailto:girish@ladestack.in" style="text-decoration:none; margin:6px;">
-    <img src="./icons/mail-card.svg" width="44" alt="Email"/>
-  </a>
-</div>
-
-<p align="center" style="margin-top:8px;">
-  <strong>Email:</strong> <a href="mailto:girish@ladestack.in">girish@ladestack.in</a> ·
-  <strong>Website:</strong> <a href="http://ladestack.in">ladestack.in</a>
+<p align="center">
+  <a href="https://github.com/girishlade111"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-girishlade111-181717?style=flat-square&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/girish-lade-075bba201/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Girish%20Lade-0A66C2?style=flat-square&logo=linkedin"/></a>
+  <a href="https://www.instagram.com/girish_lade_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@girish_lade_-E4405F?style=flat-square&logo=instagram"/></a>
+  <a href="https://codepen.io/Girish-Lade-the-looper"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-Girish%20Lade-111827?style=flat-square&logo=codepen"/></a>
+  <a href="mailto:girish@ladestack.in"><img alt="Email" src="https://img.shields.io/badge/Email-girish@ladestack.in-D14836?style=flat-square&logo=gmail"/></a>
 </p>
 
 ---
 
-### ✨ Brand-minded Icon System (how it works)
+## Quick summary
 
-To keep icons consistent with your webapp design, I recommend the **rounded card** icon style:
+I combine **product design** and **full-stack engineering** to build AI-integrated tools and polished UX. I think in systems and ship focused, user-centered products: fast prototypes → iteration → scaling.
 
-- square with 12–16px corner radius  
-- 44×44 px size for the card; 24–28 px inner logo  
-- subtle shadow + single-brand accent color or muted gradient background  
-- white or off-white glyph for contrast on dark backgrounds
-
-**Implementation suggestion**: Save SVG files at `./icons/*.svg` and reference them like above. The SVGs included below follow this system — modern, minimal, and consistent.
+**Areas of focus**
+- UX/UI design systems & motion
+- Full-stack (Next.js / TypeScript)
+- AI tools and agent orchestration
+- Developer tooling and open-source projects
 
 ---
 
-## SVG icon files — Save these to `./icons/`
+## Selected projects
 
-### `icons/github-card.svg`
-```svg
-<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88">
-  <defs>
-    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#0f172a"/>
-      <stop offset="1" stop-color="#111827"/>
-    </linearGradient>
-  </defs>
-  <rect rx="14" width="88" height="88" fill="url(#g1)"/>
-  <g transform="translate(14,14)" fill="#fff" opacity="1">
-    <path d="M26 0C11.66 0 0 11.66 0 26c0 11.53 7.48 21.28 17.85 24.75 1.3.24 1.77-.56 1.77-1.25 0-.62-.02-2.26-.03-4.45-7.26 1.58-8.8-3.5-8.8-3.5-1.19-3.03-2.9-3.84-2.9-3.84-2.37-1.62.18-1.59.18-1.59 2.62.18 4 2.69 4 2.69 2.33 3.98 6.1 2.83 7.58 2.16.24-1.68.91-2.83 1.66-3.48-5.79-.66-11.88-2.9-11.88-12.9 0-2.85 1.02-5.18 2.7-7.01-.27-.66-1.17-3.34.26-6.96 0 0 2.21-.7 7.24 2.69 2.1-.58 4.35-.88 6.59-.89 2.24.01 4.49.31 6.59.89 5.03-3.39 7.23-2.69 7.23-2.69 1.44 3.62.54 6.3.27 6.96 1.68 1.84 2.7 4.17 2.7 7.01 0 10.02-6.1 12.23-11.9 12.88.93.8 1.76 2.39 1.76 4.82 0 3.48-.03 6.28-.03 7.13 0 .7.47 1.51 1.78 1.25C48.52 47.28 56 37.53 56 26 56 11.66 44.34 0 30 0z" transform="scale(0.9) translate(4,4)"/>
-  </g>
-</svg>
+- **AetherCanvas** — Ideogram-style AI image studio for creators. (TypeScript, Next.js)  
+- **Synergy Flow** — Workflow and realtime collaboration dashboard for design teams.  
+- **GB-Coder (Public Beta)** — AI-assisted code editor and dev UX experiments.  
+- **Lade Studio** — Design + dev playground for rapid iteration.
+
+(See pinned repos on my profile for links & demos.)
+
+---
+
+## Tech & tools
+
+**Frontend:** TypeScript • React • Next.js • Tailwind  
+**Backend:** Node.js • Supabase • Firebase • Prisma • Vercel  
+**AI & infra:** OpenAI API • LangChain • GitHub Actions • Cloudflare  
+**Design:** Figma • Framer • Adobe XD • Shadcn/UI
+
+---
+
+## GitHub insights
+
+<p align="center">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=girishlade111&show_icons=true&theme=tokyonight&count_private=true" width="420"/>
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishlade111&layout=compact&theme=tokyonight" width="320"/>
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/girishlade111"><img src="./icons/github.svg" width="48" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/girish-lade-075bba201/"><img src="./icons/linkedin.svg" width="48" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/girish_lade_/"><img src="./icons/instagram.svg" width="48" alt="Instagram"/></a>
+  <a href="https://codepen.io/Girish-Lade-the-looper"><img src="./icons/codepen.svg" width="48" alt="CodePen"/></a>
+  <a href="mailto:girish@ladestack.in"><img src="./icons/mail.svg" width="48" alt="Email"/></a>
+</p>
+
+**Email:** girish@ladestack.in • **Website:** http://ladestack.in
+
+---
+
+## How to keep this README working (short)
+
+1. Add `image1.png` to the *repo root* (exact filename: `image1.png`).  
+2. Create a folder `icons/` in the repo root and add the SVG files listed below (exact filenames):  
+   - `./icons/github.svg`  
+   - `./icons/linkedin.svg`  
+   - `./icons/instagram.svg`  
+   - `./icons/codepen.svg`  
+   - `./icons/mail.svg`  
+3. Commit & push. GitHub will render the images and badges reliably.
+
+---
+
+### Design note
+This README uses simple markdown and small SVG icons to ensure consistent rendering across light/dark themes and avoid layout breakage. If you want a banner, animated header, or a different layout (two-column, left-profile card, etc.), I can provide a tested variant.
+
+---
