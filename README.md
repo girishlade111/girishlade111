@@ -59,19 +59,6 @@ My approach blends design psychology with technical precision — **engineering 
 
 ---
 
-## 📊 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=girishlade111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girishlade111&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=girishlade111&theme=react-dark&hide_border=true&custom_title=🔥%20My%20Contribution%20Graph" width="98%"/>
-</p>
-
----
-
 ## 💡 My Creative Vision
 
 I’m building **Lade Stack** — an ecosystem of free AI-integrated tools for developers, designers, and digital creators.  
