@@ -72,22 +72,6 @@ My approach blends design psychology with technical precision — **engineering 
 
 ---
 
-## 🧾 Detailed Contributions Summary
-
-| Year | Total Contributions | Commits | PRs | Issues | Repositories |
-|------|---------------------|----------|-----|--------|---------------|
-| **2025 (YTD)** | 3,183+ | ~3.8k | 16 | 42 | 614+ |
-| **2024** | 297 | — | — | — | — |
-
-<div align="center">
-  <img src="./src/image2.png" width="480" alt="2025 Contributions Heatmap" style="border-radius: 12px; margin: 10px;"/>
-  <img src="./src/image3.png" width="480" alt="2024 Contributions Heatmap" style="border-radius: 12px; margin: 10px;"/>
-</div>
-
-> 💡 “Consistency builds momentum — momentum builds mastery.”
-
----
-
 ## 💡 My Creative Vision
 
 I’m building **Lade Stack** — an ecosystem of free AI-integrated tools for developers, designers, and digital creators.  
