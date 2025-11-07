@@ -1,81 +1,108 @@
-<h1 align="center">Hey there 👋, I'm Girish Balaso Lade</h1>
-<h3 align="center">🚀 UX/UI Developer | AI Tool Builder | Swift & Kotlin Learner</h3>
+<!-- ======================================== -->
+<!-- 👋 GIRISH BALASO LADE - PROFESSIONAL README -->
+<!-- ======================================== -->
+
+<!-- Hero Section with Image -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/girishlade111/girishlade111/main/profile-header.png" alt="Girish Lade Banner" width="100%" style="border-radius: 12px;"/>
+</div>
+
+<h1 align="center">Hi there 👋, I'm Girish Balaso Lade</h1>
+<h3 align="center">UX/UI Developer • AI Tool Builder • Creative Technologist</h3>
 
 ---
 
-### 🧑‍💻 About Me
+### 💫 About Me
 
-Hey! I’m **Girish**, a passionate **UX/UI developer** who’s obsessed with designing and building digital experiences that people can actually *use* — for free.  
-I love blending **beautiful design** with **functional development**, crafting tools that make everyday creative tasks easier.
+I’m **Girish**, a passionate **UX/UI Developer** focused on creating design-driven digital tools powered by AI.  
+I love crafting products that are **beautiful**, **intuitive**, and **accessible** — empowering creators to work smarter, not harder.
 
-- 🎨 I specialize in **UX/UI designing** and **front-end engineering**.  
-- 🧠 Currently exploring **Kotlin** & **Swift** to expand my dev toolkit.  
-- 🤖 Working on **AI-powered creative tools** that redefine user interaction.  
-- 💬 Ask me about **design systems, AI agents, or UI animations**.  
-- 🌍 Always open to collaborating on **open-source AI/Design projects**.  
-- ⚡ Fun fact: I design faster than I debug 😅  
-
----
-
-### 🧩 Featured Projects
-
-| 🔗 Project | 💡 Description | ⚙️ Tech Stack |
-|-------------|----------------|----------------|
-| [**AetherCanvas**](https://github.com/girishlade111/AetherCanvas-AI-Image-Generation-Studio-Ideogram-Style-) | AI Image Generation Studio inspired by Ideogram, built for creative professionals. | TypeScript, Next.js, Tailwind |
-| [**Synergy Flow**](https://github.com/girishlade111/Synergy-Flow) | Real-time workflow and productivity dashboard for creative teams. | TypeScript, React |
-| [**GB Coder (Public Beta)**](https://github.com/girishlade111/GB-Coder-Public-Beta) | Next-gen AI-powered code editor. | TypeScript, Node.js |
-| [**Lade Studio**](https://github.com/girishlade111/Lade-Studio) | A unified design + development playground. | TypeScript, Vite, Tailwind |
+- 🎯 Currently learning **Kotlin** and **Swift** for native app experiences.  
+- 🤖 Exploring **AI Agents** and creative AI applications.  
+- 🧠 Obsessed with **design systems**, **micro-interactions**, and **automation**.  
+- 💼 Founder of [**LadeStack**](http://ladestack.in) — building AI-driven creative tools for everyone.  
+- ⚡ Motto: *“Why pay for tools when we can build them better?”*
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🧠 Tech Stack
 
-#### 💻 Languages & Frameworks  
-`TypeScript` • `JavaScript` • `Kotlin` • `Swift` • `React` • `Next.js` • `Node.js`
+<div align="center">
 
-#### 🎨 Design & Prototyping  
-`Figma` • `Framer` • `Adobe XD` • `Tailwind CSS` • `Shadcn/UI`
+| **Languages** | **Frontend** | **Backend** | **Design Tools** | **AI/Cloud** |
+|:---------------|:-------------|:-------------|:------------------|:--------------|
+| TypeScript | React | Node.js | Figma | OpenAI API |
+| JavaScript | Next.js | Express | Framer | LangChain |
+| Kotlin | Tailwind CSS | Supabase | Adobe XD | Firebase |
+| Swift | Vite | Prisma | Shadcn/UI | Vercel |
 
-#### 🧠 AI & Tools  
-`OpenAI API` • `LangChain` • `Pinecone` • `TensorFlow.js`
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="mailto:girishlade111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="email"/></a>
-<a href="https://www.linkedin.com/in/girish-lade"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://x.com/girishlade111"><img src="https://img.shields.io/badge/Twitter/X-000000?logo=x&logoColor=white" alt="twitter"/></a>
-<a href="https://instagram.com/girishlade111"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="instagram"/></a>
-<a href="http://ladestack.in/"><img src="https://img.shields.io/badge/Website-0A0A0A?logo=vercel&logoColor=white" alt="website"/></a>
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
+
+<div align="center">
+
+| 🧩 Project | 📝 Description | 🧠 Stack |
+|-------------|----------------|-----------|
+| [**AetherCanvas**](https://github.com/girishlade111/AetherCanvas-AI-Image-Generation-Studio-Ideogram-Style-) | AI Image Generation Studio (Ideogram Style) for creative professionals. | TypeScript, Next.js, Tailwind |
+| [**Synergy Flow**](https://github.com/girishlade111/Synergy-Flow) | Real-time collaboration & workflow dashboard for design teams. | TypeScript, React |
+| [**GB-Coder (Public Beta)**](https://github.com/girishlade111/GB-Coder-Public-Beta) | AI-powered next-gen code editor for developers. | Node.js, TypeScript |
+| [**Lade Studio**](https://github.com/girishlade111/Lade-Studio) | A unified design + development workspace. | TypeScript, Vite, Tailwind |
+
+</div>
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/girishlade111">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=girishlade111&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=girishlade111&theme=tokyonight" />
+</a>
+
+<br/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishlade111&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+### 🌐 Connect with Me
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=girishlade111&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=girishlade111&theme=tokyonight" />
+  <a href="mailto:girishlade111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/girish-lade"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/girishlade111"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://instagram.com/girishlade111"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="http://ladestack.in/"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
+
+---
+
+### 🪄 Personal Quote
+
+> *“Design is not how it looks — it’s how it feels when it works.”*  
+> — **Girish Lade**
+
+---
+
+### 📊 Profile Summary
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishlade111&layout=compact&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=girishlade111&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/girishlade111?label=Followers&style=flat-square&color=blue" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/girishlade111?label=Stars&style=flat-square&color=yellow" alt="stars"/>
 </p>
 
 ---
 
-### ✨ Fun Zone
-
-> “Seriously, why pay for tools when we can just make them?”  
-> – *Girish Lade*
-
-🎯 Current Goal: Building free AI tools for designers and developers.  
-☕ Fuel: Coffee, creativity, and chaos.
+<div align="center">
+  <img src="https://github.com/girishlade111/girishlade111/blob/main/profile-image.png" width="200" style="border-radius: 50%; margin-top: 15px;" alt="Girish Lade"/>
+  <p><strong>Girish Balaso Lade</strong> — <em>Designing the future, one pixel at a time.</em></p>
+</div>
 
 ---
-
-⭐ **If you like my work, consider giving a star to my repositories!**  
-Let’s connect and build something amazing 🚀
-
