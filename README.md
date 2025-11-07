@@ -1,70 +1,85 @@
-<h1 align="center">👋 Hey there, I'm Girish Balaso Lade</h1>
-<h3 align="center">UX/UI Designer • Indie Developer • AI Enthusiast</h3>
+<!-- Profile Header -->
+<div align="center">
+  <img src="https://github.com/girishlade111/girishlade111/blob/main/profile-banner.png" width="100%" alt="banner" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/girishlade111/girishlade111/blob/main/profile-photo.png" width="180" style="border-radius:50%; border: 2px solid #ccc;" alt="Girish Lade Profile" />
+</div>
+
+<h1 align="center">Girish Balaso Lade</h1>
+<h3 align="center">UX/UI Designer · Full-Stack Developer · AI Tool Builder</h3>
 
 <p align="center">
-  <a href="https://ladestack.in" target="_blank"><img src="https://img.shields.io/badge/Website-LadeStack.in-blue?style=for-the-badge&logo=google-chrome"></a>
-  <a href="mailto:girishlade111@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/girish-lade-075bba201/"><img src="https://img.shields.io/badge/LinkedIn-Girish_Lade-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/girishlade111"><img src="https://img.shields.io/badge/GitHub-girishlade111-black?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/girish_lade_/"><img src="https://img.shields.io/badge/Instagram-@girish__lade__-E4405F?style=for-the-badge&logo=instagram"></a>
+  <a href="https://ladestack.in"><img src="https://img.shields.io/badge/Website-LadeStack.in-2E8B57?style=flat-square&logo=google-chrome&logoColor=white"></a>
+  <a href="mailto:girishlade111@gmail.com"><img src="https://img.shields.io/badge/Email-girishlade111@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/girish-lade-075bba201/"><img src="https://img.shields.io/badge/LinkedIn-Girish%20Lade-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/girishlade111"><img src="https://img.shields.io/badge/GitHub-@girishlade111-181717?style=flat-square&logo=github"></a>
+  <a href="https://www.instagram.com/girish_lade_/"><img src="https://img.shields.io/badge/Instagram-@girish__lade__-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me  
-Hey! I'm **Girish**, a **UX/UI designer** turned **full-stack developer** obsessed with creating clean, functional, and AI-powered digital experiences.  
-I believe design should *feel human*, and tools should *serve people for free*.  
+### 👋 About Me
+I’m **Girish Lade**, a UX/UI designer and indie developer passionate about building digital tools that blend design, engineering, and AI innovation.  
+Currently focused on crafting **AI-powered developer tools** and **modern web experiences** that are free, accessible, and delightful to use.
 
-- 🎨 I design intuitive interfaces that merge creativity with usability.  
-- ⚙️ I develop modern web tools powered by AI and open APIs.  
-- 💡 Currently learning **Kotlin** & **Swift** to expand into mobile app ecosystems.  
-- 🤝 Open to collaborations on **AI tools, dev platforms, and design systems**.  
-- 🚀 Founder of **[Lade Stack](https://ladestack.in)** — building free AI-integrated tools for developers.  
-
----
-
-### 🧩 My Current Projects  
-Here are some of the projects I’m building and maintaining:
-
-| Project | Description | Stack |
-|----------|--------------|-------|
-| [AetherCanvas](https://github.com/girishlade111/AetherCanvas-AI-Image-Generation-Studio-Ideogram-Style-) | AI Image Generation Studio (Ideogram Style) | TypeScript, Next.js, AI APIs |
-| [Synergy Flow](https://github.com/girishlade111/Synergy-Flow) | Task Flow Management with smart automation | React, TypeScript |
-| [GB-Coder Public Beta](https://github.com/girishlade111/GB-Coder-Public-Beta) | Developer-focused AI assistant platform | Next.js, Supabase, Genkit |
-| [Lade Studio](https://github.com/girishlade111/Lade-Studio) | Creative workspace for building design systems | TypeScript, TailwindCSS |
+- 💡 Founder of [LadeStack.in](https://ladestack.in) — building AI-integrated developer tools.  
+- 🎨 Experienced in UX/UI design, user psychology, and interaction systems.  
+- ⚙️ Skilled in frontend & backend development using modern web technologies.  
+- 📱 Currently learning **Kotlin** and **Swift** for cross-platform apps.  
+- 🌍 Always open to collaborations around **AI agents**, **SaaS platforms**, and **developer ecosystems**.  
 
 ---
 
 ### 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,nodejs,express,supabase,firebase,git,github,vscode,vercel&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,figma,supabase,firebase,vercel,git,github,vscode&perline=8" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 🧩 Featured Projects
+| Project | Description | Tech |
+|----------|--------------|------|
+| [AetherCanvas](https://github.com/girishlade111/AetherCanvas-AI-Image-Generation-Studio-Ideogram-Style-) | AI Image Generation Studio inspired by Ideogram | TypeScript, Next.js, OpenAI API |
+| [GB-Coder Public Beta](https://github.com/girishlade111/GB-Coder-Public-Beta) | Developer-centric AI assistant & code utility hub | Next.js, Supabase, Genkit |
+| [Synergy Flow](https://github.com/girishlade111/Synergy-Flow) | Task flow manager with smart automation | React, TypeScript |
+| [Lade Studio](https://github.com/girishlade111/Lade-Studio) | Design system & creative workspace | TailwindCSS, TypeScript |
+
+---
+
+### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=girishlade111&show_icons=true&theme=radical&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishlade111&layout=compact&theme=radical&hide_border=true" height="180em"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=girishlade111&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishlade111&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🧩 Fun Facts
-- 💭 I think of ideas faster than I can code them.  
-- ⚡ Favorite motto: *“Build it first. Perfect it later.”*  
-- ☕ Code fuel: Black coffee + Lofi beats.  
-- 🧩 Weirdly fascinated by AI agents and design psychology.  
+### 🎯 Vision
+> *Design is the silent ambassador of your code.*  
+> My goal is to craft products that balance functionality, design clarity, and real user value — one AI-powered tool at a time.
 
 ---
 
-### 🌍 Let's Connect
+### ☕ Fun Things
+- Loves building minimal tools that just **work**.  
+- Code fuel: **Black coffee + Lofi beats**.  
+- Favorite stack: **Next.js + Tailwind + Supabase**.  
+- Motto: *“Ship fast, learn faster.”*
+
+---
+
+### 🌐 Let’s Connect
 <p align="center">
-  <a href="https://ladestack.in"><img src="https://img.shields.io/badge/Visit-My%20Website-1abc9c?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/girish-lade-075bba201/"><img src="https://img.shields.io/badge/LinkedIn-Girish%20Lade-0e76a8?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/girishlade111"><img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://ladestack.in"><img src="https://img.shields.io/badge/Visit%20My%20Website-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/girish-lade-075bba201/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/girishlade111"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-<p align="center">✨ Crafted with ❤️ by <a href="https://ladestack.in">LadeStack</a> ✨</p>
+<p align="center">✨ Designed & Maintained by <a href="https://ladestack.in">LadeStack</a> ✨</p>
