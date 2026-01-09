@@ -25,7 +25,7 @@
 
 ## 🧠 About Me
 
-Hey! I'm **Girish**, a **UX/UI-focused developer** passionate about creating tools that merge **artistic design** and **practical engineering**.   
+Hey!  I'm **Girish**, a **UX/UI-focused developer** passionate about creating tools that merge **artistic design** and **practical engineering**.    
 
 I craft **AI-integrated developer platforms**, **design systems**, and **automation-driven experiences**. My approach blends design psychology with technical precision — **engineering that feels human**.
 
@@ -51,7 +51,7 @@ I craft **AI-integrated developer platforms**, **design systems**, and **automat
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/code.png" width="48"/><br/>
       <b>Development Stack</b><br/>
-      <sub>TypeScript • Next. js • Supabase • Firebase</sub>
+      <sub>TypeScript • Next.js • Supabase • Firebase</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="48"/><br/>
@@ -101,8 +101,8 @@ I craft **AI-integrated developer platforms**, **design systems**, and **automat
 | 🧠 [**AetherCanvas**](https://github.com/girishlade111/AetherCanvas-AI-Image-Generation-Studio-Ideogram-Style-) | AI Image Generation Studio (Ideogram Style) | TypeScript, Next.js, AI APIs | ![Stars](https://img.shields.io/github/stars/girishlade111/AetherCanvas-AI-Image-Generation-Studio-Ideogram-Style-? style=social) |
 | ⚡ [**Synergy Flow**](https://github.com/girishlade111/Synergy-Flow) | Productivity & automation system for creatives | TypeScript, Automation | ![Stars](https://img.shields.io/github/stars/girishlade111/Synergy-Flow?style=social) |
 | 💬 [**GB Coder (Beta)**](https://github.com/girishlade111/GB-Coder-Public-Beta) | AI-powered coding assistant | TypeScript, LLMs | ![Stars](https://img.shields.io/github/stars/girishlade111/GB-Coder-Public-Beta?style=social) |
-| 🧩 [**Lade Stack Dev Hub**](https://github.com/girishlade111/lade-stack-ai-dev-hub) | Centralized ecosystem hub for developers | TypeScript, Next.js | ![Stars](https://img.shields.io/github/stars/girishlade111/lade-stack-ai-dev-hub?style=social) |
-| 🎨 [**Lade Studio**](https://github.com/girishlade111/Lade-Studio) | Modern design studio for UI/UX prototyping | TypeScript, Figma | ![Stars](https://img.shields.io/github/stars/girishlade111/Lade-Studio?style=social) |
+| 🧩 [**Lade Stack Dev Hub**](https://github.com/girishlade111/lade-stack-ai-dev-hub) | Centralized ecosystem hub for developers | TypeScript, Next. js | ![Stars](https://img.shields.io/github/stars/girishlade111/lade-stack-ai-dev-hub?style=social) |
+| 🎨 [**Lade Studio**](https://github.com/girishlade111/Lade-Studio) | Modern design studio for UI/UX prototyping | TypeScript, Figma | ![Stars](https://img.shields.io/github/stars/girishlade111/Lade-Studio? style=social) |
 
 </div>
 
@@ -112,7 +112,7 @@ I craft **AI-integrated developer platforms**, **design systems**, and **automat
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api? username=girishlade111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp. com/?user=girishlade111&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/? user=girishlade111&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" />
 </div>
 
 <div align="center">
@@ -132,8 +132,8 @@ I craft **AI-integrated developer platforms**, **design systems**, and **automat
 
 ## 💡 My Creative Vision
 
-I'm building **Lade Stack** — an ecosystem of free AI-integrated tools for developers, designers, and digital creators.  
-Each project is crafted to **simplify complexity**, **elevate creativity**, and **democratize technology**.
+I'm building **Lade Stack** — an ecosystem of free AI-integrated tools for developers, designers, and digital creators.   
+Each project is crafted to **simplify complexity**, **elevate creativity**, and **democratize technology**. 
 
 ### 🚀 Core Values
 ```typescript
@@ -157,8 +157,8 @@ const coreValues = {
 ## 🖼️ Visual Identity
 
 <div align="center">
-  <img src="./src/image1.png" width="240" style="border-radius: 20px; margin: 10px; box-shadow: 0 4px 12px rgba(0,198,255,0.3);" />
-  <img src="./src/image2.png" width="240" style="border-radius:  20px; margin: 10px; box-shadow: 0 4px 12px rgba(0,198,255,0.3);" />
+  <img src="./src/image1.png" width="240" style="border-radius: 20px; margin:  10px; box-shadow:  0 4px 12px rgba(0,198,255,0.3);" />
+  <img src="./src/image2.png" width="240" style="border-radius: 20px; margin: 10px; box-shadow: 0 4px 12px rgba(0,198,255,0.3);" />
   <img src="./src/image3.png" width="240" style="border-radius: 20px; margin: 10px; box-shadow: 0 4px 12px rgba(0,198,255,0.3);" />
 </div>
 
@@ -167,7 +167,7 @@ const coreValues = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel. app/graph?username=girishlade111&custom_title=Girish's%20Contribution%20Graph&bg_color=0D1117&color=00C6FF&line=00C6FF&point=FFFFFF&area=true&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=girishlade111&custom_title=Girish's%20Contribution%20Graph&bg_color=0D1117&color=00C6FF&line=00C6FF&point=FFFFFF&area=true&hide_border=true" width="100%">
 </div>
 
 ---
@@ -215,7 +215,7 @@ const goals2026 = [
 
 ## 🤝 Support My Work
 
-If you find my projects helpful, consider:
+If you find my projects helpful, consider: 
 - ⭐ **Star** my repositories
 - 🍴 **Fork** and contribute
 - 📢 **Share** with your network
@@ -224,7 +224,7 @@ If you find my projects helpful, consider:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting! &fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks+for+visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
   
   ### *"Building the future, one pixel and one line of code at a time."* 🚀
   
