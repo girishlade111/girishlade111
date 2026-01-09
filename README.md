@@ -8,7 +8,7 @@
   
   <p align="center">
     <a href="https://ladestack.in/" target="_blank"><img src="https://img.shields.io/badge/🌐_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    <a href="mailto:girish@ladestack.in"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:girish@ladestack. in"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/girish-lade-075bba201/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.instagram.com/girish_lade_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://github.com/girishlade111" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -44,7 +44,7 @@ I craft **AI-integrated developer platforms**, **design systems**, and **automat
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/design. png" width="48"/><br/>
+      <img src="https://img.icons8.com/fluency/96/design.png" width="48"/><br/>
       <b>Design Philosophy</b><br/>
       <sub>Minimal • Accessible • Human-Centered</sub>
     </td>
@@ -102,7 +102,7 @@ I craft **AI-integrated developer platforms**, **design systems**, and **automat
 | ⚡ [**Synergy Flow**](https://github.com/girishlade111/Synergy-Flow) | Productivity & automation system for creatives | TypeScript, Automation | ![Stars](https://img.shields.io/github/stars/girishlade111/Synergy-Flow?style=social) |
 | 💬 [**GB Coder (Beta)**](https://github.com/girishlade111/GB-Coder-Public-Beta) | AI-powered coding assistant | TypeScript, LLMs | ![Stars](https://img.shields.io/github/stars/girishlade111/GB-Coder-Public-Beta?style=social) |
 | 🧩 [**Lade Stack Dev Hub**](https://github.com/girishlade111/lade-stack-ai-dev-hub) | Centralized ecosystem hub for developers | TypeScript, Next. js | ![Stars](https://img.shields.io/github/stars/girishlade111/lade-stack-ai-dev-hub?style=social) |
-| 🎨 [**Lade Studio**](https://github.com/girishlade111/Lade-Studio) | Modern design studio for UI/UX prototyping | TypeScript, Figma | ![Stars](https://img.shields.io/github/stars/girishlade111/Lade-Studio? style=social) |
+| 🎨 [**Lade Studio**](https://github.com/girishlade111/Lade-Studio) | Modern design studio for UI/UX prototyping | TypeScript, Figma | ![Stars](https://img.shields.io/github/stars/girishlade111/Lade-Studio?style=social) |
 
 </div>
 
@@ -157,8 +157,8 @@ const coreValues = {
 ## 🖼️ Visual Identity
 
 <div align="center">
-  <img src="./src/image1.png" width="240" style="border-radius: 20px; margin:  10px; box-shadow:  0 4px 12px rgba(0,198,255,0.3);" />
-  <img src="./src/image2.png" width="240" style="border-radius: 20px; margin: 10px; box-shadow: 0 4px 12px rgba(0,198,255,0.3);" />
+  <img src="./src/image1.png" width="240" style="border-radius: 20px; margin: 10px; box-shadow: 0 4px 12px rgba(0,198,255,0.3);" />
+  <img src="./src/image2.png" width="240" style="border-radius:  20px; margin: 10px; box-shadow: 0 4px 12px rgba(0,198,255,0.3);" />
   <img src="./src/image3.png" width="240" style="border-radius: 20px; margin: 10px; box-shadow: 0 4px 12px rgba(0,198,255,0.3);" />
 </div>
 
@@ -167,14 +167,14 @@ const coreValues = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=girishlade111&custom_title=Girish's%20Contribution%20Graph&bg_color=0D1117&color=00C6FF&line=00C6FF&point=FFFFFF&area=true&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph? username=girishlade111&custom_title=Girish's%20Contribution%20Graph&bg_color=0D1117&color=00C6FF&line=00C6FF&point=FFFFFF&area=true&hide_border=true" width="100%">
 </div>
 
 ---
 
 ## 💬 Latest Blog Posts & Articles
 <!-- BLOG-POST-LIST:START -->
-- Coming soon!  Follow my journey on [ladestack.in](https://ladestack.in)
+- Coming soon!  Follow my journey on [ladestack. in](https://ladestack.in)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -224,7 +224,7 @@ If you find my projects helpful, consider:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks+for+visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting! &fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
   
   ### *"Building the future, one pixel and one line of code at a time."* 🚀
   
