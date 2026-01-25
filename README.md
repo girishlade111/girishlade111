@@ -1,38 +1,153 @@
-<h1 align="center">Hi 👋, I'm Girish balaso Lade</h1>
-<h3 align="center">A passionate UI/UX developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=girishlade111&label=Profile%20views&color=0e75b6&style=flat" alt="girishlade111" /> </p>
+# 👋 Hi, I'm Girish Balaso Lade
 
-- 🔭 I’m currently working on my personal brand [Lade Stack](https://www.ladestack.in/)
+### 🎨 UI/UX Developer | 🤖 AI Enthusiast | 🚀 Innovation Builder
 
-- 🌱 I’m currently learning Building mobile apps **kotlin**
+[![Profile Views](https://komarev.com/ghpvc/?username=girishlade111&label=Profile%20Views&color=4A4A4A&style=for-the-badge)](https://github.com/girishlade111)
+[![Lade Stack](https://img.shields.io/badge/Website-Lade_Stack-4A4A4A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ladestack.in/)
+[![Email](https://img.shields.io/badge/Email-admin@ladestack.in-6B7280?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@ladestack.in)
 
-- 👯 I’m looking to collaborate for my SaaS AI tools [File Sharing Platform](https://www.ladestack.in/file-sharing-platform)
+</div>
 
-- 🤝 I’m looking for help in various projects [Here's the projects](https://www.ladestack.in/projects)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-- 👨‍💻 All of my projects are available at [https://www.ladestack.in/projects](https://www.ladestack.in/projects)
+## 🚀 About Me
 
-- 📝 I regularly write articles on AI [https://www.ladestack.in/blog](https://www.ladestack.in/blog)
+```typescript
+const girish = {
+    location: "India 🇮🇳",
+    role: "UI/UX Developer",
+    company: "Lade Stack",
+    expertise: "Generative AI",
+    learning: "Building mobile apps with Kotlin",
+    interests: ["SaaS AI Tools", "File Sharing Platforms", "AI Innovation"],
+    funFact: "Nothing 🤣"
+};
+```
 
-- 💬 Ask me about AI **Generative AI**
+<br>
 
-- 📫 How to reach me **admin@ladestack.in**
+## 💼 Current Focus
 
-- 📄 Know about my experiences [https://github.com/girishlade111](https://github.com/girishlade111)
+<table>
+  <tr>
+    <td width="50%">
+      
+### 🔭 Working On
+- 🏢 **[Lade Stack](https://www.ladestack.in/)** - My personal brand and tech platform
+- 🤖 Building innovative SaaS AI tools
+- 📁 **[File Sharing Platform](https://www.ladestack.in/file-sharing-platform)** - Collaborative project
 
-- ⚡ Fun fact **Nothing 🤣**
+    </td>
+    <td width="50%">
+      
+### 🌱 Currently Learning
+- 📱 Mobile app development with **Kotlin**
+- 🧠 Advanced Generative AI techniques
+- ☁️ Cloud-native architectures
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/413310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="413310" height="30" width="40" /></a>
-</p>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=girishlade111&show_icons=true&locale=en&layout=compact" alt="girishlade111" /></p>
+## 🤝 Let's Collaborate
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=girishlade111&show_icons=true&locale=en" alt="girishlade111" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=girishlade111&" alt="girishlade111" /></p>
+| 💡 Looking For | 🔗 Resources |
+|:---:|:---:|
+| **Collaboration** | SaaS AI Tools & File Sharing Platform |
+| **Projects** | [View All Projects](https://www.ladestack.in/projects) |
+| **Blog** | [AI Articles & Insights](https://www.ladestack.in/blog) |
+| **Expertise** | Generative AI & UI/UX Design |
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-2D2D2D?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-3C3C3C?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4A4A4A?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-6B7280?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-2D2D2D?style=for-the-badge&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-3C3C3C?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🎨 Design Tools
+![Figma](https://img.shields.io/badge/Figma-4A4A4A?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-6B7280?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-2D2D2D?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-3C3C3C?style=for-the-badge&logo=blender&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-4A4A4A?style=for-the-badge&logo=framer&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-6B7280?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2D2D2D?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3C3C3C?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-4A4A4A?style=for-the-badge&logo=oracle&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-6B7280?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-2D2D2D?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3C3C3C?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4A4A4A?style=for-the-badge&logo=git&logoColor=white)
+
+### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-6B7280?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-2D2D2D?style=for-the-badge&logo=unreal-engine&logoColor=white)
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=girishlade111&show_icons=true&theme=dark&bg_color=2D2D2D&title_color=9CA3AF&text_color=9CA3AF&icon_color=6B7280&border_color=4A4A4A&hide_border=false" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=girishlade111&layout=compact&theme=dark&bg_color=2D2D2D&title_color=9CA3AF&text_color=9CA3AF&border_color=4A4A4A&hide_border=false" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girishlade111&theme=dark&background=2D2D2D&ring=6B7280&fire=9CA3AF&currStreakLabel=9CA3AF&sideNums=9CA3AF&currStreakNum=9CA3AF&sideLabels=9CA3AF&dates=9CA3AF&border=4A4A4A&hide_border=false" alt="GitHub Streak Stats" />
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![TopCoder](https://img.shields.io/badge/TopCoder-413310-4A4A4A?style=for-the-badge&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/413310)
+[![GitHub](https://img.shields.io/badge/GitHub-girishlade111-6B7280?style=for-the-badge&logo=github&logoColor=white)](https://github.com/girishlade111)
+[![Website](https://img.shields.io/badge/Portfolio-Lade_Stack-2D2D2D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ladestack.in/)
+[![Blog](https://img.shields.io/badge/Blog-AI_Articles-3C3C3C?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.ladestack.in/blog)
+
+</div>
+
+<br>
+
+<div align="center">
+  
+### 💬 Ask me about **Generative AI** and **UI/UX Design**
+### 📫 Reach me at **admin@ladestack.in**
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,5,6&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=9CA3AF&animation=fadeIn" width="100%"/>
+</div>
