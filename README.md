@@ -3,14 +3,24 @@
 <!-- Hero Section with Gradient Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D2D2D&height=120&section=header&text=Girish%20Balaso%20Lade&fontSize=40&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Developer%20%7C%20Generative%20AI%20Expert%20%7C%20India&descAlignY=55&descAlign=50&descSize=18"/>
 
-<!-- Profile View Counter with Graphite Theme -->
+<!-- Profile View Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=girishlade111&label=Profile%20Views&color=3A3A3A&style=for-the-badge&labelColor=2D2D2D" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=girishlade111&label=Profile%20Views&color=00D9FF&style=for-the-badge&labelColor=2D2D2D" alt="Profile Views" />
 </p>
 
-<!-- Typing SVG with Cyan Highlights -->
+<!-- Typing SVG Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+Innovative+SaaS+Solutions;Crafting+Beautiful+User+Experiences;Exploring+Generative+AI+Technologies;Mobile+App+Development+with+Kotlin" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+Innovative+SaaS+Solutions;Crafting+Beautiful+User+Experiences;Exploring+Generative+AI+Technologies;Mobile+App+Development+with+Kotlin" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Social Links / Connect -->
+<p align="center">
+  <a href="https://www.ladestack.in/"><img src="https://img.shields.io/badge/Website-Lade_Stack-2D2D2D?style=for-the-badge&logo=google-chrome&logoColor=00D9FF" alt="Website" /></a>
+  <a href="mailto:admin@ladestack.in"><img src="https://img.shields.io/badge/Email-admin@ladestack.in-3A3A3A?style=for-the-badge&logo=gmail&logoColor=4FC3F7" alt="Email" /></a>
+  <a href="https://www.topcoder.com/members/413310"><img src="https://img.shields.io/badge/TopCoder-Profile-505050?style=for-the-badge&logo=topcoder&logoColor=00D9FF" alt="TopCoder" /></a>
+  <a href="https://github.com/girishlade111"><img src="https://img.shields.io/badge/GitHub-girishlade111-2D2D2D?style=for-the-badge&logo=github&logoColor=4FC3F7" alt="GitHub" /></a>
 </p>
 
 </div>
@@ -23,7 +33,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding GIF" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 **Welcome to my GitHub profile!** I am a passionate developer focusing on pushing the boundaries of web design, AI, and mobile applications.
 
@@ -34,134 +44,60 @@
 - 💼 **Explore my portfolio** at **[ladestack.in/projects](https://www.ladestack.in/projects)**.
 - ✍️ **Writing about AI** at **[ladestack.in/blog](https://www.ladestack.in/blog)**.
 - 💬 **Ask me about** `Generative AI`, `UI/UX Design`, and `Modern Web Development`.
-- 📧 **Reach me at** **[admin@ladestack.in](mailto:admin@ladestack.in)**.
 
 <br clear="both">
 
----
-
 <div align="center">
-
-## ✨ Features & Capabilities
-
-</div>
-
-Here are some of the core features and services I focus on:
-- ⚡ **Generative AI Integration**: Building SaaS platforms powered by advanced AI models.
-- 🎨 **UI/UX Engineering**: Crafting pixel-perfect, responsive, and accessible user interfaces.
-- 📱 **Mobile Development**: Developing seamless native mobile experiences using **Kotlin** and **Flutter**.
-- ☁️ **Cloud Architecture**: Deploying scalable backend solutions using AWS, Docker, and Kubernetes.
-- 🔄 **Agile Workflows**: Delivering consistent iterations through CI/CD and modern DevOps practices.
-
----
-
-<div align="center">
-
-## 🛠️ Dev Stack
-
-</div>
-
-My comprehensive development stack includes various modern technologies and frameworks:
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-2D2D2D?style=for-the-badge&logo=javascript&logoColor=00D9FF)
-![Python](https://img.shields.io/badge/Python-2D2D2D?style=for-the-badge&logo=python&logoColor=4FC3F7)
-![Java](https://img.shields.io/badge/Java-2D2D2D?style=for-the-badge&logo=openjdk&logoColor=00D9FF)
-![Kotlin](https://img.shields.io/badge/Kotlin-2D2D2D?style=for-the-badge&logo=kotlin&logoColor=4FC3F7)
-![HTML5](https://img.shields.io/badge/HTML5-2D2D2D?style=for-the-badge&logo=html5&logoColor=00D9FF)
-![CSS3](https://img.shields.io/badge/CSS3-2D2D2D?style=for-the-badge&logo=css3&logoColor=4FC3F7)
-
-### 🎨 Frontend & Frameworks
-![React](https://img.shields.io/badge/React-3A3A3A?style=for-the-badge&logo=react&logoColor=00D9FF)
-![Next.js](https://img.shields.io/badge/Next.js-3A3A3A?style=for-the-badge&logo=next.js&logoColor=4FC3F7)
-![Redux](https://img.shields.io/badge/Redux-3A3A3A?style=for-the-badge&logo=redux&logoColor=00D9FF)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-3A3A3A?style=for-the-badge&logo=bootstrap&logoColor=4FC3F7)
-![Tailwind](https://img.shields.io/badge/Tailwind-3A3A3A?style=for-the-badge&logo=tailwind-css&logoColor=00D9FF)
-![Sass](https://img.shields.io/badge/Sass-3A3A3A?style=for-the-badge&logo=sass&logoColor=4FC3F7)
-
-### 🔧 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-505050?style=for-the-badge&logo=node.js&logoColor=00D9FF)
-![Express](https://img.shields.io/badge/Express-505050?style=for-the-badge&logo=express&logoColor=4FC3F7)
-![Django](https://img.shields.io/badge/Django-505050?style=for-the-badge&logo=django&logoColor=00D9FF)
-![Flask](https://img.shields.io/badge/Flask-505050?style=for-the-badge&logo=flask&logoColor=4FC3F7)
-![GraphQL](https://img.shields.io/badge/GraphQL-505050?style=for-the-badge&logo=graphql&logoColor=00D9FF)
-![MongoDB](https://img.shields.io/badge/MongoDB-505050?style=for-the-badge&logo=mongodb&logoColor=4FC3F7)
-![MySQL](https://img.shields.io/badge/MySQL-505050?style=for-the-badge&logo=mysql&logoColor=00D9FF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-505050?style=for-the-badge&logo=postgresql&logoColor=4FC3F7)
-![Redis](https://img.shields.io/badge/Redis-505050?style=for-the-badge&logo=redis&logoColor=00D9FF)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-2D2D2D?style=for-the-badge&logo=amazon-aws&logoColor=00D9FF)
-![Docker](https://img.shields.io/badge/Docker-2D2D2D?style=for-the-badge&logo=docker&logoColor=4FC3F7)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-2D2D2D?style=for-the-badge&logo=kubernetes&logoColor=00D9FF)
-![Firebase](https://img.shields.io/badge/Firebase-2D2D2D?style=for-the-badge&logo=firebase&logoColor=4FC3F7)
-![Git](https://img.shields.io/badge/Git-2D2D2D?style=for-the-badge&logo=git&logoColor=00D9FF)
-![Linux](https://img.shields.io/badge/Linux-2D2D2D?style=for-the-badge&logo=linux&logoColor=4FC3F7)
-
-### 📱 Mobile & Design
-![Flutter](https://img.shields.io/badge/Flutter-3A3A3A?style=for-the-badge&logo=flutter&logoColor=00D9FF)
-![Android](https://img.shields.io/badge/Android-3A3A3A?style=for-the-badge&logo=android&logoColor=4FC3F7)
-![Figma](https://img.shields.io/badge/Figma-3A3A3A?style=for-the-badge&logo=figma&logoColor=00D9FF)
-
----
-
-<div align="center">
-
-## ⚙️ Configurations & Instructions
-
-</div>
-
-If you'd like to use this profile setup or configure a similar environment:
-
-### 📝 Instructions:
-1. **Fork this repository** or create a new repository with your exact GitHub username.
-2. **Update the `README.md`** file with your own information, links, and badges.
-3. **Commit the changes** to the `main` branch to make it appear on your GitHub profile.
-
-### 🛠️ Configured Widgets:
-- **Profile Views Counter**: Uses `komarev/ghpvc` for tracking repository visits.
-- **Typing SVG**: Uses `readme-typing-svg` for dynamic text animation.
-- **GitHub Stats**: Uses `anuraghazra/github-readme-stats` for language distribution and total stats.
-- **Activity Graph**: Uses `ashutosh00710/github-readme-activity-graph` to visualize commit history.
-- **Trophies**: Uses `ryo-ma/github-profile-trophy` to display gamified achievements.
-
----
-
-<div align="center">
-
-## 📊 GitHub Statistics
-
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=girishlade111&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=2D2D2D&title_color=00D9FF&icon_color=4FC3F7&text_color=E0E0E0&ring_color=00D9FF&fire_color=00D9FF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=girishlade111&theme=chartreuse-dark&hide_border=true&background=2D2D2D&stroke=00D9FF&ring=00D9FF&fire=4FC3F7&currStreakLabel=00D9FF&sideNums=E0E0E0&currStreakNum=E0E0E0&sideLabels=E0E0E0&dates=778899" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=girishlade111&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=2D2D2D&title_color=00D9FF&text_color=E0E0E0&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=girishlade111&theme=react-dark&hide_border=true&bg_color=2D2D2D&color=00D9FF&line=4FC3F7&point=00D9FF&area=true&area_color=00D9FF" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=girishlade111&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=00D9FF&icon_color=4FC3F7&text_color=E0E0E0" alt="GitHub Trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dynamic Quote" />
 </div>
 
 ---
 
 <div align="center">
 
-## 🌐 Connect With Me
+## 🛠️ Dev Stack & Technologies
+
+*Powered by **[Skill Icons](https://skillicons.dev)** for a cleaner, modern look.*
+
+<br>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,py,java,kotlin,html,css,react,nextjs,redux,bootstrap,tailwind,sass&perline=12" alt="Frontend and Languages" />
+</a>
+<br>
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,graphql,mongodb,mysql,postgres,redis,aws,docker,kubernetes&perline=12" alt="Backend and DevOps" />
+</a>
+<br>
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=firebase,git,linux,flutter,android,figma,babel,vercel,netlify,githubactions,postman,vscode&perline=12" alt="Tools and Platforms" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
 
 </div>
 
 <div align="center">
-  
-[![Website](https://img.shields.io/badge/Website-Lade_Stack-2D2D2D?style=for-the-badge&logo=google-chrome&logoColor=00D9FF)](https://www.ladestack.in/)
-[![Email](https://img.shields.io/badge/Email-admin@ladestack.in-3A3A3A?style=for-the-badge&logo=gmail&logoColor=4FC3F7)](mailto:admin@ladestack.in)
-[![TopCoder](https://img.shields.io/badge/TopCoder-Profile-505050?style=for-the-badge&logo=topcoder&logoColor=00D9FF)](https://www.topcoder.com/members/413310)
-[![GitHub](https://img.shields.io/badge/GitHub-girishlade111-2D2D2D?style=for-the-badge&logo=github&logoColor=4FC3F7)](https://github.com/girishlade111)
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=girishlade111&show_icons=true&theme=dracula&hide_border=true&bg_color=1A1B27&title_color=00D9FF&icon_color=4FC3F7&text_color=E0E0E0&ring_color=00D9FF&fire_color=00D9FF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=girishlade111&theme=dracula&hide_border=true&background=1A1B27&stroke=00D9FF&ring=00D9FF&fire=4FC3F7&currStreakLabel=00D9FF&sideNums=E0E0E0&currStreakNum=E0E0E0&sideLabels=E0E0E0&dates=778899" alt="GitHub Streak" />
+</div>
 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=girishlade111&show_icons=true&theme=dracula&hide_border=true&bg_color=1A1B27&title_color=00D9FF&text_color=E0E0E0&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=girishlade111&theme=dracula&hide_border=true&bg_color=1A1B27&color=00D9FF&line=4FC3F7&point=00D9FF&area=true&area_color=00D9FF" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=girishlade111&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=00D9FF&icon_color=4FC3F7&text_color=E0E0E0" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -172,14 +108,14 @@ If you'd like to use this profile setup or configure a similar environment:
 
 </div>
 
+Here are some highlights of my recent work. Feel free to explore my full portfolio on my website.
+
 <div align="center">
 
-| Project | Description | Link |
-|---------|-------------|------|
-| 🎯 **Lade Stack** | Personal brand and portfolio showcasing innovative solutions | [Visit →](https://www.ladestack.in/) |
-| 📁 **File Sharing Platform** | SaaS AI-powered file sharing solution | [Explore →](https://www.ladestack.in/file-sharing-platform) |
-| 💼 **Portfolio Projects** | Collection of professional projects | [View All →](https://www.ladestack.in/projects) |
-| 📝 **AI Blog** | Articles and insights on Generative AI | [Read →](https://www.ladestack.in/blog) |
+| 🎯 **Lade Stack** | 📁 **File Sharing Platform** | 📝 **AI Blog** |
+|:---:|:---:|:---:|
+| Personal brand and portfolio showcasing innovative solutions. | SaaS AI-powered file sharing solution. | Articles and insights on Generative AI. |
+| [**Visit Site 🌐**](https://www.ladestack.in/) | [**Explore App 🚀**](https://www.ladestack.in/file-sharing-platform) | [**Read Blog 📖**](https://www.ladestack.in/blog) |
 
 </div>
 
